@@ -1,0 +1,8 @@
+ 2 bread 30 2
+ 10 loni 111 10
+ 4 eggs 170 3
+ 5 milk 50 3
+ 7 sugar 30 2
+ 11 rice 111 10
+ 49 chiken 170 3
+ 55 cheez 50 3
